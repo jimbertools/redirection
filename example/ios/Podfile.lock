@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - redirection (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - redirection (from `.symlinks/plugins/redirection/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  redirection:
+    :path: ".symlinks/plugins/redirection/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  redirection: 86a0674fdc4d10643d0a2b45d2b73a9aba1363b8
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.8.4
